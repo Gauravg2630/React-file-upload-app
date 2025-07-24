@@ -58,6 +58,9 @@ Start the React app:
 npm start
 
 🖼️ Demo:
+
+Live LInk : https://react-file-upload-app-1.onrender.com/
+
 Select an image file (jpg, jpeg, png, gif)
 Preview the selected image immediately
 Click Upload button to upload to backend/Cloudinary
